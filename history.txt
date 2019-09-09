@@ -1,0 +1,10 @@
+alias sss='ls'
+sss
+echo $HOSTNAME
+exit
+ls
+ls -l
+cd ..
+cd ..
+echo $$
+echo $HOME

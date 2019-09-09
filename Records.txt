@@ -1,0 +1,13 @@
+alias.txt
+a.out
+history.txt
+myrc
+myshell.cpp
+Records.txt
+total 116
+-rw-rw-r-- 1 shanu shanu    31 Sep  5 04:30 alias.txt
+-rw-rw-r-- 1 shanu shanu   280 Sep  9 14:45 myrc
+-rw-rw-r-- 1 shanu shanu 29427 Sep  9 15:14 myshell.cpp
+-rwxr-xr-x 1 shanu shanu 69632 Sep  9 15:14 a.out
+-rw-r--r-- 1 shanu shanu    57 Sep  9 15:15 Records.txt
+-rw-r--r-- 1 shanu shanu    93 Sep  9 15:15 history.txt
