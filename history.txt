@@ -1,10 +1,10 @@
-alias sss='ls'
-sss
-echo $HOSTNAME
-exit
+ls > a.txt
+echo ls > a.txt
+cat a.txt
+echo `ls` > a.txt
+cat a.txt
+record start
 ls
 ls -l
-cd ..
-cd ..
-echo $$
-echo $HOME
+record stop
+ls
